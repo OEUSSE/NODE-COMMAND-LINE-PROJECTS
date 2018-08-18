@@ -1,0 +1,12 @@
+{
+  "name": "cli_app",
+  "version": "1.0.0",
+  "description": "App que crea un archivo desde la linea de comandos",
+  "main": "app.js",
+  "author": "Óscar Eusse",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.1",
+    "yargs": "^12.0.1"
+  }
+}
