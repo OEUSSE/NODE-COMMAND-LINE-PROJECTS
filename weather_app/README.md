@@ -1,0 +1,1 @@
+# Obtener el clima de una ciudad

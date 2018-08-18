@@ -1,0 +1,12 @@
+{
+  "name": "weather_app",
+  "version": "1.0.0",
+  "description": "Aplicación del clima con Open Weather y Google API",
+  "main": "index.js",
+  "author": "Óscar Eusse Flórez",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^12.0.1"
+  }
+}
